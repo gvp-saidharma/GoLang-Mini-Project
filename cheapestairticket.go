@@ -1,11 +1,4 @@
-//go get -t -d github.com/tebeka/selenium
-// mkdir vendor
-//go mod vendor
-//cd vendor
-//go run init.go --alsologtostderr  --download_browsers --download_latest
 
-//java -jar selenium-server.jar
-//java -jar selenium-server-standalone-3.4.jar
 package main
 
 import (
